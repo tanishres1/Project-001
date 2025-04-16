@@ -1,0 +1,4 @@
+public Class DTO{
+private String name;
+private long id;
+}
